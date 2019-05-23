@@ -70,7 +70,7 @@ if( mysqli_num_rows($query) < 1 ){
 
         <p>
         <label for="manfaat"> Manfaat </label>
-        <label><input type="checkbox" name="manfaat" value="buat narok juz">buat narok juz </label>
+        <label><input type="checkbox" name="manfaat" value="buat pupuk">buat pupuk </label>
         <label><input type="checkbox"name="manfaat"value="buat hiasan">buat hiasan </label>
         </p>
                 
